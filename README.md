@@ -7,6 +7,7 @@ This repository contains my solutions to various LeetCode problems.
 | Num | Title | Language | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) |C++|Easy|
+|704|[Binary Search](https://leetcode.com/problems/binary-search/) |C++|Easy|
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) |C++|Medium|
 
 
