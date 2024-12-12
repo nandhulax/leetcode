@@ -1,10 +1,8 @@
 # leetcode
-# LeetCode Solutions
 This repository contains my solutions to various LeetCode problems.
 ## Languages Used
 - C++
-LeetCode
-========
+##  LeetCode
 
 | Num | Title | Language | Difficulty |
 |---| ----- | -------- | ---------- |
